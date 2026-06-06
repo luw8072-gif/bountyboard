@@ -1,0 +1,1742 @@
+[
+  {
+    "title": "[CLAIM] BoTTube bridge accessibility report and fix",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/13234",
+    "repo": "Scottcjn/rustchain-bounties",
+    "labels": [
+      "maintenance"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T22:18:10Z",
+    "updated_at": "2026-06-06T22:18:10Z"
+  },
+  {
+    "title": "Accessibility: bridge operation results are not announced to screen readers",
+    "url": "https://github.com/Scottcjn/bottube/issues/1317",
+    "repo": "Scottcjn/bottube",
+    "labels": [
+      "bug"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T22:14:33Z",
+    "updated_at": "2026-06-06T22:14:33Z"
+  },
+  {
+    "title": "\ud83c\udfaf Bounty Alert: 13 New Opportunityies found",
+    "url": "https://github.com/dev-kp-eloper/BountyScout/issues/130",
+    "repo": "dev-kp-eloper/BountyScout",
+    "labels": [
+      "bounty-alert"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T22:05:47Z",
+    "updated_at": "2026-06-06T22:05:47Z"
+  },
+  {
+    "title": "[bounty] testrail-api-client stdin JSON body pipe is never detected",
+    "url": "https://github.com/charles-openclaw/charles-microbounties/issues/5",
+    "repo": "charles-openclaw/charles-microbounties",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T22:03:01Z",
+    "updated_at": "2026-06-06T22:29:56Z"
+  },
+  {
+    "title": "Pull Request - fix: Automated Issue #4816 (Closes #4816)",
+    "url": "https://github.com/SCALE-TEST-R-CLOUD/Repository-1-20260606132154/issues/5002",
+    "repo": "SCALE-TEST-R-CLOUD/Repository-1-20260606132154",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T21:35:50Z",
+    "updated_at": "2026-06-06T21:35:50Z"
+  },
+  {
+    "title": "Pull Request - fix: Automated Issue #4893 (Closes #4893)",
+    "url": "https://github.com/SCALE-TEST-R-CLOUD/Repository-1-20260606132154/issues/5001",
+    "repo": "SCALE-TEST-R-CLOUD/Repository-1-20260606132154",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T21:35:49Z",
+    "updated_at": "2026-06-06T21:35:49Z"
+  },
+  {
+    "title": "Proposal creation should whitelist public fields before persistence",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/5309",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T21:29:04Z",
+    "updated_at": "2026-06-06T21:29:04Z"
+  },
+  {
+    "title": "[BUG BOUNTY] [Medium] [MEGroup/WStaking] Unbonded region leaves empty group admin and JoinGroup panics",
+    "url": "https://github.com/openmetaearth/me-hub/issues/1084",
+    "repo": "openmetaearth/me-hub",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T21:28:14Z",
+    "updated_at": "2026-06-06T21:28:14Z"
+  },
+  {
+    "title": "RTC Bounty Claim",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/13233",
+    "repo": "Scottcjn/rustchain-bounties",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T21:07:28Z",
+    "updated_at": "2026-06-06T21:07:28Z"
+  },
+  {
+    "title": "\ud83c\udfaf Bounty Alert: 8 New Opportunityies found",
+    "url": "https://github.com/vansh-09/BountyScout/issues/42",
+    "repo": "vansh-09/BountyScout",
+    "labels": [
+      "bounty-alert"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T21:03:11Z",
+    "updated_at": "2026-06-06T21:03:11Z"
+  },
+  {
+    "title": "[BUG BOUNTY] [Medium] [WStaking/AppHash] Region withdraw grants are lost across genesis export/import",
+    "url": "https://github.com/openmetaearth/me-hub/issues/1083",
+    "repo": "openmetaearth/me-hub",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:58:10Z",
+    "updated_at": "2026-06-06T20:58:10Z"
+  },
+  {
+    "title": "[BUG BOUNTY] [Medium] [WStaking/WBank] Region treasury withdrawal can fund blocked module accounts",
+    "url": "https://github.com/openmetaearth/me-hub/issues/1081",
+    "repo": "openmetaearth/me-hub",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:50:44Z",
+    "updated_at": "2026-06-06T20:50:44Z"
+  },
+  {
+    "title": "[REVIEW] dependency-scanning: add lockfile bisectability, provenance chain propagation, and supply chain risk scoring",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1536",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:41:24Z",
+    "updated_at": "2026-06-06T21:51:25Z"
+  },
+  {
+    "title": "[REVIEW] sbom-analysis: add graph completeness, VEX credibility, and freshness/trustworthiness gates",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1535",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:41:23Z",
+    "updated_at": "2026-06-06T20:41:23Z"
+  },
+  {
+    "title": "[REVIEW] zero-trust-assessment: add weakest-pillar floor, device enforcement depth, and legacy ZT readiness gates",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1533",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:41:22Z",
+    "updated_at": "2026-06-06T20:41:22Z"
+  },
+  {
+    "title": "[REVIEW] post-incident-review: add root cause depth scoring, blast radius metrics, and detection engineering feedback loop",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1534",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:41:22Z",
+    "updated_at": "2026-06-06T20:41:22Z"
+  },
+  {
+    "title": "[REVIEW] threat-modeling: add DFD trust model classification, communication types, and CI/CD artifact integrity gates",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1532",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:41:21Z",
+    "updated_at": "2026-06-06T20:41:21Z"
+  },
+  {
+    "title": "[BUG BOUNTY] [Medium-High] [Gravity] AddDelegate unconditionally resets SlashTimes, letting slashed relayers bypass permanent offline",
+    "url": "https://github.com/openmetaearth/me-hub/issues/1079",
+    "repo": "openmetaearth/me-hub",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:39:13Z",
+    "updated_at": "2026-06-06T20:39:13Z"
+  },
+  {
+    "title": "\ud83c\udfaf Bounty Alert: 13 New Opportunityies found",
+    "url": "https://github.com/dev-kp-eloper/BountyScout/issues/129",
+    "repo": "dev-kp-eloper/BountyScout",
+    "labels": [
+      "bounty-alert"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T20:12:02Z",
+    "updated_at": "2026-06-06T20:12:02Z"
+  },
+  {
+    "title": "Proposed work: expose contributor submission status",
+    "url": "https://github.com/ramimbo/mergework/issues/1056",
+    "repo": "ramimbo/mergework",
+    "labels": [
+      "proposed-work"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T20:08:42Z",
+    "updated_at": "2026-06-06T20:08:44Z"
+  },
+  {
+    "title": "[REVIEW] ir-playbook: add third-party IR retainer activation and scope-of-work evidence gates",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1529",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:04:19Z",
+    "updated_at": "2026-06-06T21:07:30Z"
+  },
+  {
+    "title": "[REVIEW] scanner-tuning: add maintenance blackout and scan-window coverage gap gates",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1528",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:04:18Z",
+    "updated_at": "2026-06-06T20:04:18Z"
+  },
+  {
+    "title": "[REVIEW] sast-config: add polyglot monorepo workspace-scoped SARIF completeness gates",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1527",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:04:17Z",
+    "updated_at": "2026-06-06T21:14:13Z"
+  },
+  {
+    "title": "[REVIEW] forensics-checklist: add FVE recovery-key escrow and imaging feasibility gates",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1526",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:04:17Z",
+    "updated_at": "2026-06-06T20:04:17Z"
+  },
+  {
+    "title": "[REVIEW] alert-triage: add SOAR auto-disposition and playbook closure contamination gates",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1525",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:04:16Z",
+    "updated_at": "2026-06-06T20:04:16Z"
+  },
+  {
+    "title": "[BUG BOUNTY] [High] [WStaking/Wdistri] UpdateValidator accepts uncreated region and detaches validator rewards",
+    "url": "https://github.com/openmetaearth/me-hub/issues/1078",
+    "repo": "openmetaearth/me-hub",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T20:02:17Z",
+    "updated_at": "2026-06-06T20:02:17Z"
+  },
+  {
+    "title": "RTC Bounty Claim - 2026-06-06 19:54 UTC",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/13232",
+    "repo": "Scottcjn/rustchain-bounties",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T19:54:09Z",
+    "updated_at": "2026-06-06T19:54:09Z"
+  },
+  {
+    "title": "[bounty] beartype ParamSpec generic subscription fails during decoration",
+    "url": "https://github.com/charles-openclaw/charles-microbounties/issues/4",
+    "repo": "charles-openclaw/charles-microbounties",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T19:52:39Z",
+    "updated_at": "2026-06-06T21:54:24Z"
+  },
+  {
+    "title": "Final battle at Malastare (Rebel base) last remaining rebel units were structure",
+    "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/136",
+    "repo": "johnchampaign/star-wars-rebellion",
+    "labels": [
+      "bug",
+      "from-game"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T19:46:37Z",
+    "updated_at": "2026-06-06T19:46:37Z"
+  },
+  {
+    "title": "registerUser generates inconsistent user ID and token subject (bnpl7 scoped #743)",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/5305",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T19:46:22Z",
+    "updated_at": "2026-06-06T19:46:22Z"
+  },
+  {
+    "title": "Auth middleware should accept multiple spaces after Bearer scheme (bnpl7 scoped #743)",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/5304",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T19:46:08Z",
+    "updated_at": "2026-06-06T19:46:08Z"
+  },
+  {
+    "title": "Catacoma bounties not giving rewards",
+    "url": "https://github.com/Monkestation/Vanderlin/issues/6645",
+    "repo": "Monkestation/Vanderlin",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T19:37:03Z",
+    "updated_at": "2026-06-06T19:37:03Z"
+  },
+  {
+    "title": "[bounty] Gityzer navbar links target missing sections",
+    "url": "https://github.com/charles-openclaw/charles-microbounties/issues/3",
+    "repo": "charles-openclaw/charles-microbounties",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T19:32:07Z",
+    "updated_at": "2026-06-06T19:32:07Z"
+  },
+  {
+    "title": "\ud83c\udfaf Bounty Alert: 9 New Opportunityies found",
+    "url": "https://github.com/vansh-09/BountyScout/issues/41",
+    "repo": "vansh-09/BountyScout",
+    "labels": [
+      "bounty-alert"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T19:20:58Z",
+    "updated_at": "2026-06-06T19:20:58Z"
+  },
+  {
+    "title": "[bounty] BreezeNow footer About Us link points to missing #about section",
+    "url": "https://github.com/charles-openclaw/charles-microbounties/issues/2",
+    "repo": "charles-openclaw/charles-microbounties",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T19:09:55Z",
+    "updated_at": "2026-06-06T21:47:21Z"
+  },
+  {
+    "title": "[REVIEW] iam-review: add token revocation, device-code, and MFA fatigue evidence gates",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1522",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T19:07:25Z",
+    "updated_at": "2026-06-06T19:07:25Z"
+  },
+  {
+    "title": "[CLAIM] Code review bounty #73 for RustChain PR #6904",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/13231",
+    "repo": "Scottcjn/rustchain-bounties",
+    "labels": [
+      "bounty-eligible",
+      "gate-processed"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T19:05:15Z",
+    "updated_at": "2026-06-06T19:05:25Z"
+  },
+  {
+    "title": "[BUG BOUNTY] [High] [Gravity/AppHash] Genesis accepts relayer DelegateAmount that panics EndBlocker power normalization",
+    "url": "https://github.com/openmetaearth/me-hub/issues/1075",
+    "repo": "openmetaearth/me-hub",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T19:02:34Z",
+    "updated_at": "2026-06-06T19:02:34Z"
+  },
+  {
+    "title": "[BUG BOUNTY] [High] [Gravity] Batch timeout addition can overflow and create already-expired outgoing batches",
+    "url": "https://github.com/openmetaearth/me-hub/issues/1074",
+    "repo": "openmetaearth/me-hub",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T18:58:19Z",
+    "updated_at": "2026-06-06T18:58:19Z"
+  },
+  {
+    "title": "[REVIEW] access-review: add guest sponsor expiry and shared-account attribution evidence gates",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1521",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T18:56:59Z",
+    "updated_at": "2026-06-06T18:56:59Z"
+  },
+  {
+    "title": "[BUG BOUNTY] [High] [Gravity] Valid AverageBlockTime can overflow batch timeout projection",
+    "url": "https://github.com/openmetaearth/me-hub/issues/1073",
+    "repo": "openmetaearth/me-hub",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T18:51:35Z",
+    "updated_at": "2026-06-06T18:51:35Z"
+  },
+  {
+    "title": "RTC Bounty Claim",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/13230",
+    "repo": "Scottcjn/rustchain-bounties",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T18:41:28Z",
+    "updated_at": "2026-06-06T18:41:28Z"
+  },
+  {
+    "title": "$5 XMR microbounty: find one small reproducible public software issue",
+    "url": "https://github.com/charles-openclaw/charles-microbounties/issues/1",
+    "repo": "charles-openclaw/charles-microbounties",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T18:38:14Z",
+    "updated_at": "2026-06-06T18:38:14Z",
+    "amount_usd": 5
+  },
+  {
+    "title": "Critical vulnerabilities and logic errors in owockibot.xyz platform",
+    "url": "https://github.com/franklin52448-max/owockibot.xyz/issues/1",
+    "repo": "franklin52448-max/owockibot.xyz",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T18:17:39Z",
+    "updated_at": "2026-06-06T21:45:10Z"
+  },
+  {
+    "title": "\ud83c\udfaf Bounty Alert: 4 New Opportunityies found",
+    "url": "https://github.com/dev-kp-eloper/BountyScout/issues/128",
+    "repo": "dev-kp-eloper/BountyScout",
+    "labels": [
+      "bounty-alert"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T18:09:21Z",
+    "updated_at": "2026-06-06T18:09:21Z"
+  },
+  {
+    "title": "[REVIEW] azure-review: add Key Vault RBAC transition and private-endpoint enforcement gates",
+    "url": "https://github.com/UnitOneAI/SecuritySkills/issues/1511",
+    "repo": "UnitOneAI/SecuritySkills",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T18:07:17Z",
+    "updated_at": "2026-06-06T18:14:31Z"
+  },
+  {
+    "title": "[BUG BOUNTY] [High] [Gravity] Zero-power relayer can satisfy attestation quorum and mint bridge deposits",
+    "url": "https://github.com/openmetaearth/me-hub/issues/1071",
+    "repo": "openmetaearth/me-hub",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T17:55:05Z",
+    "updated_at": "2026-06-06T17:55:05Z"
+  },
+  {
+    "title": "Organizer Bounties",
+    "url": "https://github.com/roshankumar0036singh/Uni-Event/issues/568",
+    "repo": "roshankumar0036singh/Uni-Event",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T17:43:32Z",
+    "updated_at": "2026-06-06T21:10:55Z"
+  },
+  {
+    "title": "RTC Bounty Claim - 2026-06-07 Session",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/13229",
+    "repo": "Scottcjn/rustchain-bounties",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T17:29:32Z",
+    "updated_at": "2026-06-06T17:29:32Z"
+  },
+  {
+    "title": "Security contact in bug bounty policy is bouncing",
+    "url": "https://github.com/Synternet/security/issues/1",
+    "repo": "Synternet/security",
+    "labels": [],
+    "state": "open",
+    "created_at": "2026-06-06T17:29:00Z",
+    "updated_at": "2026-06-06T17:29:00Z"
+  },
+  {
+    "title": "MRWK bounty: 450 MRWK - Phase 2B snapshot Merkle proofs",
+    "url": "https://github.com/ramimbo/mergework/issues/1027",
+    "repo": "ramimbo/mergework",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "tests",
+      "ledger"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T14:37:33Z",
+    "updated_at": "2026-06-06T14:41:03Z"
+  },
+  {
+    "title": "[radar] SN open bounty 2026-06-06T08:44",
+    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/49",
+    "repo": "relayhop/sn-monetization-runtime",
+    "labels": [
+      "radar",
+      "sn",
+      "bounty"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T08:44:53Z",
+    "updated_at": "2026-06-06T15:09:24Z"
+  },
+  {
+    "title": "\ud83c\udfaf Optimize Partition Pruning and Expression Evaluation for Large Partitioned Parquet Datasets",
+    "url": "https://github.com/maitebloger111/Apache-Arrow/issues/1",
+    "repo": "maitebloger111/Apache-Arrow",
+    "labels": [
+      "bounty",
+      "opire",
+      "$10"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T06:58:39Z",
+    "updated_at": "2026-06-06T19:22:05Z"
+  },
+  {
+    "title": "\ud83c\udfaf Optimize Memory Footprint of WatchManager During Large-Scale Watch Registration Workloads",
+    "url": "https://github.com/jeromyritchie52/Apache-ZooKeeper/issues/1",
+    "repo": "jeromyritchie52/Apache-ZooKeeper",
+    "labels": [
+      "bounty",
+      "opire",
+      "$10"
+    ],
+    "state": "open",
+    "created_at": "2026-06-06T05:23:27Z",
+    "updated_at": "2026-06-06T15:09:27Z"
+  },
+  {
+    "title": "\ud83c\udfaf Bug: Memory Leak in Master/Worker Recovery Daemon (OSD) During Continuous Failover Operations",
+    "url": "https://github.com/aozorayama45/Apache-DolphinScheduler/issues/1",
+    "repo": "aozorayama45/Apache-DolphinScheduler",
+    "labels": [
+      "bounty",
+      "opire",
+      "$10"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T17:10:48Z",
+    "updated_at": "2026-06-06T15:33:24Z"
+  },
+  {
+    "title": "\ud83c\udfaf Optimize Metrics Collection and Exporting to Prevent High Memory Usage Under Heavy Load",
+    "url": "https://github.com/aozorayama45/Traefik/issues/3",
+    "repo": "aozorayama45/Traefik",
+    "labels": [
+      "bounty",
+      "opire",
+      "$10"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T17:04:58Z",
+    "updated_at": "2026-06-06T15:09:28Z"
+  },
+  {
+    "title": "[Zero-Bounty / Glory-Only] Add asyncio.Lock gating and persistent connection to TelemetryPipeline",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/154",
+    "repo": "Ikalus1988/MisakaNet",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "status: competition"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T14:50:00Z",
+    "updated_at": "2026-06-05T23:15:48Z"
+  },
+  {
+    "title": "L2: Implement Solana chain module",
+    "url": "https://github.com/kcolbchain/arka/issues/22",
+    "repo": "kcolbchain/arka",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "bounty"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T14:17:17Z",
+    "updated_at": "2026-06-06T15:52:58Z"
+  },
+  {
+    "title": "L0: Add a simple-amm-lp YAML preset",
+    "url": "https://github.com/kcolbchain/quoter/issues/30",
+    "repo": "kcolbchain/quoter",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "bounty"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T14:15:15Z",
+    "updated_at": "2026-06-06T18:00:42Z"
+  },
+  {
+    "title": "[BOUNTY $100] \ud83d\udc1c The Great Agentic Memory Showdown: Memanto Benchmarking & Evaluation Challenge",
+    "url": "https://github.com/moorcheh-ai/memanto/issues/639",
+    "repo": "moorcheh-ai/memanto",
+    "labels": [
+      "bounty"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T13:58:36Z",
+    "updated_at": "2026-06-06T22:06:20Z",
+    "amount_usd": 100
+  },
+  {
+    "title": "MRWK bounty: 150 MRWK - MCP structured output and conformance suite",
+    "url": "https://github.com/ramimbo/mergework/issues/946",
+    "repo": "ramimbo/mergework",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "mrwk:bounty",
+      "tests",
+      "api"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T12:15:10Z",
+    "updated_at": "2026-06-06T18:20:07Z"
+  },
+  {
+    "title": "MRWK bounty: 200 MRWK - public API and OpenAPI client contract completion",
+    "url": "https://github.com/ramimbo/mergework/issues/944",
+    "repo": "ramimbo/mergework",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "mrwk:bounty",
+      "tests",
+      "api"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T12:14:50Z",
+    "updated_at": "2026-06-06T20:32:56Z"
+  },
+  {
+    "title": "MRWK bounty: 100 MRWK - code cleanup and maintainability improvements, round 2",
+    "url": "https://github.com/ramimbo/mergework/issues/936",
+    "repo": "ramimbo/mergework",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "mrwk:bounty",
+      "tests"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T09:27:29Z",
+    "updated_at": "2026-06-06T20:12:53Z"
+  },
+  {
+    "title": "MRWK bounty: 150 MRWK - public bounty discovery and contributor-flow follow-up, round 2",
+    "url": "https://github.com/ramimbo/mergework/issues/935",
+    "repo": "ramimbo/mergework",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "mrwk:bounty",
+      "frontend",
+      "api"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T09:27:09Z",
+    "updated_at": "2026-06-06T21:04:20Z"
+  },
+  {
+    "title": "MRWK bounty: 150 MRWK - MCP conformance and agent-facing usability follow-up, round 2",
+    "url": "https://github.com/ramimbo/mergework/issues/934",
+    "repo": "ramimbo/mergework",
+    "labels": [
+      "documentation",
+      "enhancement",
+      "help wanted",
+      "mrwk:bounty",
+      "tests",
+      "api"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T09:26:52Z",
+    "updated_at": "2026-06-06T13:18:39Z"
+  },
+  {
+    "title": "MRWK bounty: 50 MRWK - accepted proposed-work requests, round 3",
+    "url": "https://github.com/ramimbo/mergework/issues/932",
+    "repo": "ramimbo/mergework",
+    "labels": [
+      "documentation",
+      "help wanted",
+      "mrwk:bounty"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T09:26:22Z",
+    "updated_at": "2026-06-06T20:09:03Z"
+  },
+  {
+    "title": "Feedback wanted: security-intake public validation",
+    "url": "https://github.com/reportproof/security-intake/issues/3",
+    "repo": "reportproof/security-intake",
+    "labels": [
+      "help wanted",
+      "feedback"
+    ],
+    "state": "open",
+    "created_at": "2026-06-05T08:37:22Z",
+    "updated_at": "2026-06-05T11:40:41Z"
+  },
+  {
+    "title": "Tracking: AIGEN mission mis_334ad09eccaa (300 AIGEN)",
+    "url": "https://github.com/jhosepm352-design/oabp-langchain-tool/issues/1",
+    "repo": "jhosepm352-design/oabp-langchain-tool",
+    "labels": [
+      "aigen",
+      "bounty"
+    ],
+    "state": "open",
+    "created_at": "2026-06-04T16:16:43Z",
+    "updated_at": "2026-06-06T22:10:58Z"
+  },
+  {
+    "title": "[Zero-Bounty / Glory-Only] [Competition] CI Self-Heal \u2014 Workflow auto-retry with failure notification",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/146",
+    "repo": "Ikalus1988/MisakaNet",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "status: competition"
+    ],
+    "state": "open",
+    "created_at": "2026-06-04T08:22:20Z",
+    "updated_at": "2026-06-04T08:22:23Z"
+  },
+  {
+    "title": "[Zero-Bounty / Glory-Only] [Competition] i18n Lesson Support \u2014 Multi-language lesson metadata",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/145",
+    "repo": "Ikalus1988/MisakaNet",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "status: competition"
+    ],
+    "state": "open",
+    "created_at": "2026-06-04T08:22:17Z",
+    "updated_at": "2026-06-04T08:22:20Z"
+  },
+  {
+    "title": "[Zero-Bounty / Glory-Only] [Competition] Hub Federation Prototype \u2014 Cross-repo lesson sync",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/144",
+    "repo": "Ikalus1988/MisakaNet",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue",
+      "status: competition"
+    ],
+    "state": "open",
+    "created_at": "2026-06-04T08:22:14Z",
+    "updated_at": "2026-06-05T23:29:30Z"
+  },
+  {
+    "title": "Add --json output mode (Bounty: $2 crypto)",
+    "url": "https://github.com/promptpolish-ai/git-context/issues/2",
+    "repo": "promptpolish-ai/git-context",
+    "labels": [
+      "bounty"
+    ],
+    "state": "open",
+    "created_at": "2026-06-04T01:59:04Z",
+    "updated_at": "2026-06-06T08:58:20Z",
+    "amount_usd": 2
+  },
+  {
+    "title": "Bug Bounty Program \u2014 How to Participate",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/33",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T06:30:50Z",
+    "updated_at": "2026-06-06T15:33:34Z"
+  },
+  {
+    "title": "Calculate the exact value of PI",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/17",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly",
+      "\ud83d\udc8e Bounty",
+      "$1k"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:56:26Z",
+    "updated_at": "2026-06-06T20:52:14Z"
+  },
+  {
+    "title": "Improve PI calculation accuracy",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/14",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:54Z",
+    "updated_at": "2026-06-06T15:41:08Z"
+  },
+  {
+    "title": "Implement infinite sequence iterator",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/15",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:54Z",
+    "updated_at": "2026-06-06T18:06:18Z"
+  },
+  {
+    "title": "Write unit tests for leaderboard updates",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/11",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:53Z",
+    "updated_at": "2026-06-06T15:33:40Z"
+  },
+  {
+    "title": "Write unit tests for UI Button stub",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/13",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:53Z",
+    "updated_at": "2026-06-06T17:48:44Z"
+  },
+  {
+    "title": "Write unit tests for user routes",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/12",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:53Z",
+    "updated_at": "2026-06-06T22:27:03Z"
+  },
+  {
+    "title": "Improve API route TODO coverage",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/10",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:52Z",
+    "updated_at": "2026-06-06T15:33:42Z"
+  },
+  {
+    "title": "Add request body size limit",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/9",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:52Z",
+    "updated_at": "2026-06-06T22:27:00Z"
+  },
+  {
+    "title": "Normalize health check response shape",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/8",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:51Z",
+    "updated_at": "2026-06-06T21:44:16Z"
+  },
+  {
+    "title": "Add API error handling helper",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/7",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:51Z",
+    "updated_at": "2026-06-06T21:44:15Z"
+  },
+  {
+    "title": "Add input validation to user routes",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/6",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:51Z",
+    "updated_at": "2026-06-06T22:26:58Z"
+  },
+  {
+    "title": "Add type annotations to shared Button props",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/3",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:50Z",
+    "updated_at": "2026-06-06T21:44:15Z"
+  },
+  {
+    "title": "Document environment variables",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/4",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:50Z",
+    "updated_at": "2026-06-06T15:33:45Z"
+  },
+  {
+    "title": "Improve Prisma schema comments",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/5",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:50Z",
+    "updated_at": "2026-06-06T17:22:13Z"
+  },
+  {
+    "title": "Add JSDoc to userService",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/1",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly",
+      "\ud83d\udc8e Bounty",
+      "$50"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:49Z",
+    "updated_at": "2026-06-06T20:56:44Z"
+  },
+  {
+    "title": "Fix typo in README",
+    "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
+    "repo": "xevrion-v2/agent-playground",
+    "labels": [
+      "good first issue",
+      "bounty",
+      "AI agent friendly",
+      "\ud83d\udc8e Bounty",
+      "$50"
+    ],
+    "state": "open",
+    "created_at": "2026-06-03T05:50:49Z",
+    "updated_at": "2026-06-06T22:05:40Z"
+  },
+  {
+    "title": "\ud83d\udcde Bounty board \u2014 build the dial-up island (humans + agents)",
+    "url": "https://github.com/Scottcjn/rustchain-dialup/issues/1",
+    "repo": "Scottcjn/rustchain-dialup",
+    "labels": [
+      "bounty"
+    ],
+    "state": "open",
+    "created_at": "2026-06-02T15:16:36Z",
+    "updated_at": "2026-06-03T07:58:24Z"
+  },
+  {
+    "title": "Call for contributors and reviewers",
+    "url": "https://github.com/cxhihilwb123-hash/tixiaozhu-oss/issues/13",
+    "repo": "cxhihilwb123-hash/tixiaozhu-oss",
+    "labels": [
+      "help wanted",
+      "roadmap"
+    ],
+    "state": "open",
+    "created_at": "2026-06-02T04:40:57Z",
+    "updated_at": "2026-06-02T05:08:32Z"
+  },
+  {
+    "title": "[$10k bounty] Ford F-150 2026 (TRON) support",
+    "url": "https://github.com/commaai/opendbc/issues/3426",
+    "repo": "commaai/opendbc",
+    "labels": [
+      "ford",
+      "car port",
+      "bounty"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T22:10:24Z",
+    "updated_at": "2026-06-02T18:27:44Z",
+    "amount_usd": 10
+  },
+  {
+    "title": "Calculate the exact value of PI",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2885",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$1.2k"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T13:00:19Z",
+    "updated_at": "2026-06-06T15:33:47Z"
+  },
+  {
+    "title": "Calculate the exact value of PI #2872",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2883",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "documentation",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$1.2k"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T13:00:14Z",
+    "updated_at": "2026-06-06T15:33:48Z"
+  },
+  {
+    "title": "Job validation should reject inverted budget ranges",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2853",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T12:44:37Z",
+    "updated_at": "2026-06-06T01:22:31Z"
+  },
+  {
+    "title": "upload endpoint accepts empty file submissions as successful uploads",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2850",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T12:42:16Z",
+    "updated_at": "2026-06-05T13:02:43Z"
+  },
+  {
+    "title": "Freelancer profile route should resolve mock profiles by username",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2849",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T12:40:49Z",
+    "updated_at": "2026-06-05T13:02:43Z"
+  },
+  {
+    "title": "auth refresh endpoint issues tokens without verifying the requester",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2847",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T12:35:50Z",
+    "updated_at": "2026-06-05T13:02:57Z"
+  },
+  {
+    "title": "registerUser access token can reference a different user id",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2845",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T12:31:25Z",
+    "updated_at": "2026-06-05T13:02:59Z"
+  },
+  {
+    "title": "Reject inverted job budget ranges in job validation",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2835",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T11:26:06Z",
+    "updated_at": "2026-06-05T13:15:42Z"
+  },
+  {
+    "title": "Search endpoint has no input validation or length limit on query",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2833",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T11:25:28Z",
+    "updated_at": "2026-06-05T13:15:41Z"
+  },
+  {
+    "title": "fix: prevent admin role self-assignment during registration",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2832",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T11:25:07Z",
+    "updated_at": "2026-06-05T13:15:41Z"
+  },
+  {
+    "title": "Reject inverted job budget ranges in job validation",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2827",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T11:13:54Z",
+    "updated_at": "2026-06-04T00:43:24Z"
+  },
+  {
+    "title": "Settings page should provide actionable account controls",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2822",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T10:23:41Z",
+    "updated_at": "2026-06-04T01:17:11Z"
+  },
+  {
+    "title": "Job detail route should resolve mock jobs by id (reissue via #743)",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2790",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T10:18:10Z",
+    "updated_at": "2026-06-04T18:26:06Z"
+  },
+  {
+    "title": "@freelanceflow/ui package entrypoint should be directly importable (reissue via #743)",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2787",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T10:12:38Z",
+    "updated_at": "2026-06-04T00:43:19Z"
+  },
+  {
+    "title": "@freelanceflow/ui package entrypoint should be directly importable",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2781",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T09:56:23Z",
+    "updated_at": "2026-06-04T00:43:17Z"
+  },
+  {
+    "title": "@freelanceflow/db package should expose an importable workspace entrypoint",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2775",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T09:47:11Z",
+    "updated_at": "2026-06-05T19:48:48Z"
+  },
+  {
+    "title": "Registration should require fullName to match User model",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2770",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T09:37:08Z",
+    "updated_at": "2026-06-05T19:58:31Z"
+  },
+  {
+    "title": "Registration token subject should match returned user id",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2768",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T09:33:32Z",
+    "updated_at": "2026-06-02T09:23:18Z"
+  },
+  {
+    "title": "Freelancer profile should render matching mock profile and unknown fallback",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2763",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T09:30:54Z",
+    "updated_at": "2026-06-04T00:43:14Z"
+  },
+  {
+    "title": "Notification creation should preserve server-owned id and read state",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2762",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T09:30:10Z",
+    "updated_at": "2026-06-04T00:43:12Z"
+  },
+  {
+    "title": "Job detail route should resolve mock jobs by id",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2760",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T09:27:30Z",
+    "updated_at": "2026-06-04T00:43:09Z"
+  },
+  {
+    "title": "Payment API should require authentication",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2757",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T09:22:16Z",
+    "updated_at": "2026-06-01T02:56:18Z"
+  },
+  {
+    "title": "Job detail page should render matching mock job and unknown fallback",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2755",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "enhancement",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$780"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T09:21:16Z",
+    "updated_at": "2026-06-01T01:01:37Z"
+  },
+  {
+    "title": "[FEATURE] Add `aria-label` and accessible role to FAQ accordion items",
+    "url": "https://github.com/RatLoopz/sahidawa-india/issues/961",
+    "repo": "RatLoopz/sahidawa-india",
+    "labels": [
+      "level:beginner",
+      "gssoc:approved",
+      "type:feature",
+      "good first issue"
+    ],
+    "state": "open",
+    "created_at": "2026-05-31T03:52:54Z",
+    "updated_at": "2026-06-06T03:23:21Z"
+  },
+  {
+    "title": "Settings page should provide actionable account controls",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1810",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T05:03:04Z",
+    "updated_at": "2026-06-02T12:41:52Z"
+  },
+  {
+    "title": "Settings page should provide actionable account controls",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1795",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T04:33:24Z",
+    "updated_at": "2026-06-01T01:02:41Z"
+  },
+  {
+    "title": "fix: prevent DoS on search endpoint via query length limit and input validation",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1781",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T03:57:53Z",
+    "updated_at": "2026-06-02T12:41:59Z"
+  },
+  {
+    "title": "Patch PostCSS audit advisory from Next dependency lockfile",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1779",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T03:45:28Z",
+    "updated_at": "2026-05-31T07:11:00Z"
+  },
+  {
+    "title": "Search endpoint has no input validation or length limit on query",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1777",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T03:15:09Z",
+    "updated_at": "2026-06-06T21:47:31Z"
+  },
+  {
+    "title": "Job creation endpoint lacks authentication \u2014 anyone can post jobs",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1776",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T03:15:04Z",
+    "updated_at": "2026-05-31T08:30:57Z"
+  },
+  {
+    "title": "Refresh token endpoint ignores the provided refresh token",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1775",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T03:14:59Z",
+    "updated_at": "2026-05-31T13:43:56Z"
+  },
+  {
+    "title": "CORS configured with no origin restrictions \u2014 allows any domain",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1774",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T03:14:54Z",
+    "updated_at": "2026-06-05T01:43:41Z"
+  },
+  {
+    "title": "User creation endpoint has no input validation",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1773",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T03:14:49Z",
+    "updated_at": "2026-06-06T21:47:30Z"
+  },
+  {
+    "title": "Payment endpoint lacks authentication \u2014 unauthenticated payment creation",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1772",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T03:14:45Z",
+    "updated_at": "2026-05-31T13:44:05Z"
+  },
+  {
+    "title": "Upload endpoint lacks authentication \u2014 unauthenticated file uploads allowed",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1771",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T03:14:41Z",
+    "updated_at": "2026-05-31T07:11:12Z"
+  },
+  {
+    "title": "Admin routes lack role-based access control \u2014 any authenticated user can access admin endpoints",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1770",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T03:14:36Z",
+    "updated_at": "2026-06-06T21:47:29Z"
+  },
+  {
+    "title": "Bug: user creation accepts empty payloads and client-controlled ids",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1766",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T03:10:27Z",
+    "updated_at": "2026-05-31T13:44:42Z"
+  },
+  {
+    "title": "Bug: Multiple security vulnerabilities in API layer - registerUser() ID mismatch, missing auth, missing validation",
+    "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1760",
+    "repo": "SecureBananaLabs/bug-bounty",
+    "labels": [
+      "bug",
+      "good first issue",
+      "help wanted",
+      "bug bounty",
+      "AI agent friendly",
+      "bounty",
+      "\ud83d\udc8e Bounty",
+      "$430"
+    ],
+    "state": "open",
+    "created_at": "2026-05-30T02:32:12Z",
+    "updated_at": "2026-05-31T13:43:47Z"
+  }
+]

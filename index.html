@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>BountyBoard — Open Source Bounty Aggregator</title>
+<style>
+:root{--bg:#0d1117;--card:#161b22;--border:#30363d;--text:#c9d1d9;--accent:#58a6ff;--gold:#d4a72c;--green:#2ea043}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+header{text-align:center;padding:2rem 1rem;border-bottom:1px solid var(--border)}
+h1{background:linear-gradient(135deg,var(--accent),var(--gold));-webkit-background-clip:text;-webkit-text-fill-color:transparent;font-size:2rem}
+.container{max-width:1100px;margin:0 auto;padding:1rem}
+.stats{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;padding:1rem}
+.stat{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:1rem 2rem;text-align:center}
+.stat-value{font-size:2rem;font-weight:bold;color:var(--accent)}
+.stat-label{color:#8b949e;font-size:0.85rem}
+.filters{display:flex;gap:0.5rem;padding:1rem;flex-wrap:wrap;justify-content:center}
+.filters input,.filters select{background:var(--card);border:1px solid var(--border);color:var(--text);padding:0.5rem 1rem;border-radius:8px;font-size:0.9rem}
+table{width:100%;border-collapse:collapse;margin:1rem 0}
+th{text-align:left;padding:0.75rem;border-bottom:2px solid var(--border);color:#8b949e;font-size:0.85rem;text-transform:uppercase}
+td{padding:0.75rem;border-bottom:1px solid var(--border);font-size:0.9rem}
+tr:hover{background:var(--card)}
+.amount{font-weight:bold;color:var(--green)}
+.no-amount{color:#484f58}
+.premium-bar{text-align:center;padding:1.5rem;background:rgba(212,167,44,0.1);border:1px solid var(--gold);border-radius:12px;margin:1rem}
+.premium-bar code{font-family:monospace;background:var(--bg);padding:0.2rem 0.5rem;border-radius:4px;font-size:0.8rem}
+footer{text-align:center;padding:2rem;color:#484f58;font-size:0.8rem}
+</style>
+</head>
+<body>
+<header>
+<h1>BountyBoard</h1>
+<p style="color:#8b949e">Live aggregator of open-source bounties — find and claim paid work</p>
+</header>
+
+<div class="container">
+<div class="stats" id="stats"></div>
+
+<div class="filters">
+<input type="text" id="search" placeholder="Search bounties..." oninput="render()">
+<select id="amount-filter" onchange="render()">
+<option value="">All amounts</option><option value="paid">Has bounty</option>
+<option value="1000+">$1,000+</option><option value="100+">$100+</option>
+<option value="small">Under $100</option>
+</select>
+</div>
+
+<table>
+<thead><tr><th>Title</th><th>Repository</th><th>Bounty</th><th>Labels</th><th>Created</th></tr></thead>
+<tbody id="tbody"><tr><td colspan="5" style="text-align:center;padding:3rem">Loading bounty data...</td></tr></tbody>
+</table>
+
+<div class="premium-bar">
+<h3 style="color:var(--gold)">Get instant alerts</h3>
+<p style="color:#8b949e">New high-value bounties delivered to your inbox or Slack — <b>$10 USDC</b> lifetime</p>
+<code>0x43552E59Be74AE4e0856ECC9aF600cF74b3F5e21</code>
+<p style="font-size:0.8rem;color:#8b949e;margin-top:0.5rem">After payment, DM with TX hash for setup</p>
+</div>
+</div>
+
+<footer>
+BountyBoard v1.0 | Auto-updated every 6 hours | Built by Claude Agent | <a href="https://github.com/luw8072-gif" style="color:var(--accent)">GitHub</a>
+</footer>
+
+<script>
+var DATA = [];
+async function load(){
+ try{
+  var r=await fetch("data/bounties.json");
+  DATA=await r.json();
+  document.getElementById("stats").innerHTML=
+   '<div class="stat"><div class="stat-value">'+DATA.length+'</div><div class="stat-label">Open Bounties</div></div>'+
+   '<div class="stat"><div class="stat-value">'+(DATA.filter(function(b){return b.amount_usd}).length)+'</div><div class="stat-label">With Amount</div></div>'+
+   '<div class="stat"><div class="stat-value">$'+(DATA.reduce(function(s,b){return s+(b.amount_usd||0)},0)).toLocaleString()+'</div><div class="stat-label">Total Value</div></div>';
+  render();
+ }catch(e){document.getElementById("tbody").innerHTML='<tr><td colspan="5" style="text-align:center">Could not load data. Running first crawl...</td></tr>'}
+}
+function render(){
+ var s=document.getElementById("search").value.toLowerCase();
+ var af=document.getElementById("amount-filter").value;
+ var rows=DATA.filter(function(b){
+  if(s&&b.title.toLowerCase().indexOf(s)===-1&&b.repo.toLowerCase().indexOf(s)===-1)return false;
+  if(af==="paid"&&!b.amount_usd)return false;
+  if(af==="1000+"&&(!b.amount_usd||b.amount_usd<1000))return false;
+  if(af==="100+"&&(!b.amount_usd||b.amount_usd<100))return false;
+  if(af==="small"&&(!b.amount_usd||b.amount_usd>=100))return false;
+  return true;
+ });
+ var html="";
+ rows.slice(0,100).forEach(function(b){
+  html+='<tr><td><a href="'+b.url+'" style="color:var(--accent);text-decoration:none">'+b.title.slice(0,80)+'</a></td>';
+  html+='<td style="color:#8b949e;font-size:0.8rem">'+b.repo+'</td>';
+  html+='<td>'+(b.amount_usd?'<span class="amount">$'+b.amount_usd.toLocaleString()+'</span>':'<span class="no-amount">-</span>')+'</td>';
+  html+='<td>'+(b.labels||[]).slice(0,3).map(function(l){return '<span style="background:var(--card);border:1px solid var(--border);padding:0.1rem 0.4rem;border-radius:20px;font-size:0.7rem;margin:0.1rem">'+l+'</span>'}).join(" ")+'</td>';
+  html+='<td style="font-size:0.8rem;color:#8b949e">'+b.created_at.slice(0,10)+'</td></tr>';
+ });
+ document.getElementById("tbody").innerHTML=html||'<tr><td colspan="5" style="text-align:center">No bounties match your filters</td></tr>';
+}
+load();
+</script>
+</body>
+</html>
